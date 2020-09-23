@@ -16,7 +16,7 @@ Statamic relationships are defined by storing the ID of one piece of content (an
 There are 4 primary fieldtypes used to manage relationships. When you use these fieldtypes in your [blueprint](/blueprints), the relationships are automatically resolved on the front-end of your site and you can work directly with the data.
 
 - [Assets](/fieldtypes/assets)
-- [Entries](/fieldtypes/entries)
+- [Entries](/fieldtypes/entries) <-- dead link
 - [Taxonomy Terms](/fieldtypes/terms)
 - [Users](/fieldtypes/users)
 
